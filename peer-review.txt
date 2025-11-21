@@ -1,1 +1,5 @@
+Part 1 - Github UI
 Task 1: https://github.com/fu-ceverhart/github-final-project
+
+Part 2 - Git CLI
+Task 1: https://github.com/fu-ceverhart/mcino-Introduction-to-Git-and-GitHub
